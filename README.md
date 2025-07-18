@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitesh Hamal</h1>
 <h3 align="center">💻 Backend Developer (Laravel) | Based in Nepal 🇳🇵</h3>
 
----
 
-## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=niteshhamal&theme=gruvbox&margin-w=15" alt="niteshhamal trophies" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshhamal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak & Contributions
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshhamal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
