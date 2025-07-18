@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nitesh Hamal</h1>
 <h3 align="center">💻 Backend Developer (Laravel) | Based in Nepal 🇳🇵</h3>
 
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=niteshhamal&theme=gruvbox&margin-w=15" alt="niteshhamal trophies" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎯 Passionate about backend development with **Laravel**  
-- 🛠 Building scalable and secure web applications  
-- 📝 I love clean code, RESTful APIs, and writing efficient database queries  
-- 💬 Always learning, improving, and experimenting with new technologies  
+## 📊 Most Used Languages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshhamal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak & Contributions
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshhamal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -39,17 +48,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" alt="Blade Templating" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshhamal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshhamal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
