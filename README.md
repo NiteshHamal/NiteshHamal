@@ -38,9 +38,3 @@
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" alt="Blade Templating" width="40" height="40"/>
 </p>
-
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=niteshhamal&label=Profile%20views&color=0e75b6&style=flat" alt="niteshhamal profile views" />
-</p>
